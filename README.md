@@ -1,62 +1,69 @@
+
 # 👋 Hi, I'm Tejaswini Wagh!
 
-Aspiring **Data Analyst** transitioning from Civil Engineering into the world of **Data, Power BI, Analytics, and Business Insights**.  
-Passionate about turning raw data into clear stories that help businesses grow and make better decisions.
+Aspiring **Data Analyst & Project Planning Professional** transitioning from Civil Engineering into the world of **Data Analytics, Dashboards, and Business Insights**.  
+I combine planning experience from a major metro project with strong analytical skills to create insights that support smarter decision-making.
 
 ---
 
 ## 🚀 About Me
-- 🎓 Civil Engineering background with experience as a **Planner Engineer**  
-- 📊 Currently building strong skills in **Power BI, Data Analysis, and Project Management**  
-- 🔄 Transitioning into the IT & Data domain with hands-on projects  
-- 📂 Actively building my **Data Analyst Portfolio** on GitHub  
-- 🎯 Career Goal: Data Analyst / Business Analyst / Project Management roles  
+- 🎓 Civil Engineering background with hands-on Planning Engineer experience  
+- 📊 Skilled in Power BI, Excel, and structured reporting  
+- 🏗️ Worked on MMRC Underground Metro Aqua Line-3 (Planning + Coordination)  
+- 🔄 Transitioning into Data & Analytics roles while still open to Planning/Commercial opportunities  
+- 📂 Building a solid GitHub portfolio with real projects  
+- 🎯 Career Focus: Data Analyst, Project Planning, PMO Analyst, Business Analyst (Entry-level)
 
 ---
 
 ## 🛠️ Skills & Tools
-### **Data & Visualization**
-- Power BI  
-- DAX (Basic)  
-- Excel (Pivot Tables, Charts, Power Query)  
 
-### **Data Handling**
-- Data Cleaning  
-- Exploratory Data Analysis  
-- Business Insights  
+### **Data & Reporting**
+- Power BI (Dashboards, KPIs, Visualization)  
+- Excel (Pivot Tables, MIS Reports, Advanced Functions)  
+- Data Cleaning & Analysis  
 
-### **Project Management**
-- Planning & Scheduling  
-- Stakeholder Communication  
-- Report Preparation  
+### **Project Planning**
+- Primavera P6  
+- MS Project  
+- DPR / WPR / MPR reporting  
+- Milestone & Delay Tracking  
+- BOQ support, Billing Coordination  
+
+### **Other Tools**
+- AutoCAD  
+- MS Office Suite  
+- Google Sheets  
 
 ---
 
-## 📂 Featured Projects
-### 🔹 **Online Retail Dashboard (Power BI)**
-Interactive dashboard analyzing 2011 online retail sales.  
-Insights on revenue trends, product demand, and customer countries.  
-➡️ [View Project Repository](https://github.com/TejKOR/Online-Retail-Dashboard)
+## 📂 Featured Project
 
+### 🔹 **Online Retail Dashboard — Power BI**
+An interactive dashboard analyzing sales data, revenue trends, top-performing countries, and product demand.
+
+➡️ **View Project:** https://github.com/TejKOR/Online-Retail-Dashboard  
+(If your link is different, replace it here)
 
 ---
 
 ## 📜 Certifications
-- TATA Data Visualization: Empowering Business with Effective Insights  
-- Forage Virtual Internship Experience   
+- TATA Data Visualisation – Forage  
+- Master Diploma in Project Planning & Management  
+- Power BI Basic to Advanced – LinkedIn Learning  
+- IBM Data Fundamentals – SkillsBuild  
+- Electronic Arts Product Management Simulation – Forage  
+- AutoCAD Civil – Autodesk  
+- STAAD Pro – Research Publication  
 
 ---
 
 ## 📫 Connect With Me
-You can reach me for:
-- Opportunities  
-- Collaborations  
-- Project discussions  
 
-**Email:** *(waghtejaswini01@gmail.com)*  
-**LinkedIn:** *(https://www.linkedin.com/in/tejaswini-wagh-kor-904718369/)*  
+**LinkedIn:** https://www.linkedin.com/in/tejaswini-wagh-kor-904718369/  
+**GitHub:** https://github.com/TejKOR  
+**Email:** waghtejaswini01@gmail.com  
 
 ---
 
 ⭐ *Thanks for visiting my profile! More projects coming soon.*  
-
