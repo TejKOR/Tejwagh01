@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Tejaswini Wagh!
 
 Aspiring **Data Analyst & Project Planning Professional** transitioning from Civil Engineering into the world of **Data Analytics, Dashboards, and Business Insights**.  
@@ -39,22 +38,27 @@ I combine planning experience from a major metro project with strong analytical 
 
 ## 📂 Featured Project
 
-### 🔹 **Online Retail Dashboard — Power BI**
+### 🔹 Online Retail Dashboard — Power BI
 An interactive dashboard analyzing sales data, revenue trends, top-performing countries, and product demand.
 
 ➡️ **View Project:** https://github.com/TejKOR/Online-Retail-Dashboard  
-(If your link is different, replace it here)
+*(If your project link is different, update it here.)*
 
 ---
 
 ## 📜 Certifications
-- TATA Data Visualisation – Forage  
-- Master Diploma in Project Planning & Management  
-- Power BI Basic to Advanced – LinkedIn Learning  
-- IBM Data Fundamentals – SkillsBuild  
-- Electronic Arts Product Management Simulation – Forage  
-- AutoCAD Civil – Autodesk  
-- STAAD Pro – Research Publication  
+
+- **Oracle Analytics Cloud Certified Professional – Oracle**  
+- **Business Analysis & Process Management – Coursera**  
+- **Career Essentials in Data Analysis – Microsoft & LinkedIn**  
+- **IBM Data Fundamentals – IBM SkillsBuild**  
+- **Introduction to Data Concepts – IBM SkillsBuild**  
+- **TATA Data Visualisation – Forage**  
+- **Power BI Basic to Advanced – LinkedIn Learning**  
+- **Master Diploma in Project Planning & Management**  
+- **Electronic Arts Product Management Job Simulation – Forage**  
+- **AutoCAD Civil Certification – Autodesk**  
+- **STAAD Pro Seismic Analysis – Research Publication**  
 
 ---
 
@@ -67,3 +71,4 @@ An interactive dashboard analyzing sales data, revenue trends, top-performing co
 ---
 
 ⭐ *Thanks for visiting my profile! More projects coming soon.*  
+
